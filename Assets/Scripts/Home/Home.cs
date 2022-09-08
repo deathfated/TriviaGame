@@ -18,7 +18,7 @@ namespace Deathfated.Trivia.Home
 
         void OnClickPlay()
         {
-            SceneManager.LoadScene("GameplayScene");
+            SceneManager.LoadScene("Pack");
         }
     }
 }

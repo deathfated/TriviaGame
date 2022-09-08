@@ -1,5 +1,6 @@
 {
   "dependencies": {
+    "com.agate.mvc": "file:C:/Users/a-12/Downloads/MVC-main/MVC-main/Packages/com.agate.mvc",
     "com.unity.collab-proxy": "1.17.1",
     "com.unity.feature.2d": "1.0.0",
     "com.unity.ide.rider": "3.0.15",
