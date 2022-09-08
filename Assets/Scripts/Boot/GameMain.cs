@@ -13,11 +13,6 @@ namespace Deathfated.Trivia.Boot
         protected override IConnector[] GetConnectors()
         {
             return null;
-            
-            /*return new IConnector[]
-            {
-                new sfxConnector()
-            }*/
         }
 
         protected override IController[] GetDependencies()
@@ -25,7 +20,9 @@ namespace Deathfated.Trivia.Boot
             return new IController[]
             {
                 new QuizController(),
-                new LevelStatusController()
+                new LevelStatusController(),
+                new CurrencyController(),
+                new AnalyticController()
 
             };
         }

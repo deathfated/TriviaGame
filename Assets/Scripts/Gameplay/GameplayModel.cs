@@ -60,7 +60,6 @@ namespace Deathfated.Trivia.Gameplay
             else
             {
                 Level++;
-                Debug.Log(Level);
             }
             SetDataAsDirty();
         }
