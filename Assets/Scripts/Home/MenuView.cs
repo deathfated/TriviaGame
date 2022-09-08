@@ -9,10 +9,10 @@ namespace Deathfated.Trivia.Home
     {
         [SerializeField] private Button _startButton;
 
-        public void Init(UnityAction onStart)
+        public void Init(UnityAction OnStart)
         {
             _startButton.onClick.RemoveAllListeners();
-            _startButton.onClick.AddListener(onStart);
+            _startButton.onClick.AddListener(OnStart);
         }
     }
 }

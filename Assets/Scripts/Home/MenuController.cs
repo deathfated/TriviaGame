@@ -1,5 +1,8 @@
 using Agate.MVC.Base;
+using Deathfated.Trivia.Boot;
+using Deathfated.Trivia.Utility;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 namespace Deathfated.Trivia.Home
 {
@@ -13,9 +16,9 @@ namespace Deathfated.Trivia.Home
 
         public void OnStart()
         {
-            //SceneLoader.Instance.LoadScene(Scenes.LevelSelect);
+            SceneLoader.Instance.LoadScene(Scenes.Pack);
 
-            //SceneManager.LoadScene("Pack");
+            SceneManager.LoadScene("Pack");
         }
     }
 }
