@@ -1,0 +1,164 @@
+{
+  "Trivia": [
+    {
+        "levelid": "1",
+        "packid": "A",
+        "hint": "mawar",
+        "question": "Warna dari Mawar?",
+        "answer" : ["Merah","Biru","Hijau","Kuning"],
+        "correctAnswer" : "Merah" 
+    },
+    {
+        "levelid": "2",
+        "packid": "A",
+        "hint": "langit",
+        "question": "Warna dari Langit?",
+        "answer" : ["Merah","Biru","Hijau","Kuning"],
+        "correctAnswer" : "Biru"  
+    },
+    {
+        "levelid": "3",
+        "packid": "A",
+        "hint": "daun",
+        "question": "Warna dari Daun?",
+        "answer" : ["Merah","Biru","Hijau","Kuning"],
+        "correctAnswer" : "Hijau"  
+    },
+    {
+        "levelid": "4",
+        "packid": "A",
+        "hint": "matahari",
+        "question": "Warna dari Matahari?",
+        "answer" : ["Merah","Biru","Hijau","Kuning"],
+        "correctAnswer" : "Kuning" 
+    },
+    {
+        "levelid": "5",
+        "packid": "A",
+        "hint": "laut",
+        "question": "Warna dari Laut?",
+        "answer" : ["Merah","Biru","Hijau","Kuning"],
+        "correctAnswer" : "Biru" 
+    },
+    {
+        "levelid": "1",
+        "packid": "B",
+        "hint": "langit",
+        "question": "Warna dari Langit?",
+        "answer" : ["Merah","Biru","Hijau","Kuning"],
+        "correctAnswer" : "Biru" 
+    },
+    {
+        "levelid": "2",
+        "packid": "B",
+        "hint": "daun",
+        "question": "Warna dari Daun?",
+        "answer" : ["Merah","Biru","Hijau","Kuning"],
+        "correctAnswer" : "Hijau" 
+    },
+    {
+        "levelid": "3",
+        "packid": "B",
+        "hint": "matahari",
+        "question": "Warna dari Matahari?",
+        "answer" : ["Merah","Biru","Hijau","Kuning"],
+        "correctAnswer" : "Kuning" 
+    },
+    {
+        "levelid": "4",
+        "packid": "B",
+        "hint": "laut",
+        "question": "Warna dari Laut?",
+        "answer" : ["Merah","Biru","Hijau","Kuning"],
+        "correctAnswer" : "Biru" 
+    },
+    {
+        "levelid": "5",
+        "packid": "B",
+        "hint": "mawar",
+        "question": "Warna dari Mawar?",
+        "answer" : ["Merah","Biru","Hijau","Kuning"],
+        "correctAnswer" : "Merah" 
+    },
+    {
+        "levelid": "1",
+        "packid": "C",
+        "hint": "daun",
+        "question": "Warna dari Daun?",
+        "answer" : ["Merah","Biru","Hijau","Kuning"],
+        "correctAnswer" : "Hijau" 
+    },
+    {
+        "levelid": "2",
+        "packid": "C",
+        "hint": "matahari",
+        "question": "Warna dari Matahari?",
+        "answer" : ["Merah","Biru","Hijau","Kuning"],
+        "correctAnswer" : "Kuning" 
+    },
+    {
+        "levelid": "3",
+        "packid": "C",
+        "hint": "laut",
+        "question": "Warna dari Laut?",
+        "answer" : ["Merah","Biru","Hijau","Kuning"],
+        "correctAnswer" : "Biru" 
+    },
+    {
+        "levelid": "4",
+        "packid": "C",
+        "hint": "mawar",
+        "question": "Warna dari Mawar?",
+        "answer" : ["Merah","Biru","Hijau","Kuning"],
+        "correctAnswer" : "Merah" 
+    },
+    {
+        "levelid": "5",
+        "packid": "C",
+        "hint": "langit",
+        "question": "Warna dari Langit?",
+        "answer" : ["Merah","Biru","Hijau","Kuning"],
+        "correctAnswer" : "Biru" 
+    },
+    {
+        "levelid": "1",
+        "packid": "D",
+        "hint": "matahari",
+        "question": "Warna dari Matahari?",
+        "answer" : ["Merah","Biru","Hijau","Kuning"],
+        "correctAnswer" : "Kuning" 
+    },
+    {
+        "levelid": "2",
+        "packid": "D",
+        "hint": "laut",
+        "question": "Warna dari Laut?",
+        "answer" : ["Merah","Biru","Hijau","Kuning"],
+        "correctAnswer" : "Biru" 
+    },
+    {
+        "levelid": "3",
+        "packid": "D",
+        "hint": "mawar",
+        "question": "Warna dari Mawar?",
+        "answer" : ["Merah","Biru","Hijau","Kuning"],
+        "correctAnswer" : "Merah" 
+    },
+    {
+        "levelid": "4",
+        "packid": "D",
+        "hint": "langit",
+        "question": "Warna dari Langit?",
+        "answer" : ["Merah","Biru","Hijau","Kuning"],
+        "correctAnswer" : "Biru" 
+    },
+    {
+        "levelid": "5",
+        "packid": "D",
+        "hint": "daun",
+        "question": "Warna dari Daun?",
+        "answer" : ["Merah","Biru","Hijau","Kuning"],
+        "correctAnswer" : "Hijau" 
+    }
+]
+}

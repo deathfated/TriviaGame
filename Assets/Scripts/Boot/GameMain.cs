@@ -1,6 +1,7 @@
 using Agate.MVC.Base;
 using Agate.MVC.Core;
 using Deathfated.Trivia.Gameplay.Quiz;
+using Deathfated.Trivia.Level;
 using System.Collections;
 using UnityEngine;
 using UnityEngine.EventSystems;
@@ -23,7 +24,8 @@ namespace Deathfated.Trivia.Boot
         {
             return new IController[]
             {
-                new QuizController()
+                new QuizController(),
+                new LevelStatusController()
 
             };
         }

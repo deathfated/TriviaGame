@@ -7,6 +7,6 @@ namespace Deathfated.Trivia.Utility
         public const string Home = "Home";
         public const string Pack = "Pack";
         public const string Level = "Level";
-        public const string GamePlay = "Gameplay";
+        public const string Gameplay = "Gameplay";
     }
 }
